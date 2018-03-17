@@ -1,0 +1,73 @@
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\ApplicationInsights.config
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\csc.exe
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\vbc.exe
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\VBCSCompiler.exe
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\AngularIsmaDay1.dll.config
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\AngularIsmaDay1.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\AngularIsmaDay1.pdb
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.Web.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.ApplicationInsights.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.Web.xml
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.ApplicationInsights.xml
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\obj\Debug\AngularIsmaDay1.csprojResolveAssemblyReference.cache
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\obj\Debug\AngularIsmaDay1.dll
+c:\users\eng_a\onedrive\documents\visual studio 2015\Projects\AngularIsmaDay1\AngularIsmaDay1\obj\Debug\AngularIsmaDay1.pdb
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\ApplicationInsights.config
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\csc.exe
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\System.Collections.Immutable.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\System.Reflection.Metadata.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\vbc.exe
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\VBCSCompiler.exe
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\roslyn\VBCSCompiler.exe.config
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\AngularIsmaDay1.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\AngularIsmaDay1.pdb
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.DependencyCollector.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.Web.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.WindowsServer.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.ApplicationInsights.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\mscorlib.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.DependencyCollector.xml
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.Web.xml
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.AI.WindowsServer.xml
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.ApplicationInsights.xml
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\normidna.nlp
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\normnfc.nlp
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\normnfd.nlp
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\normnfkc.nlp
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\bin\normnfkd.nlp
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\obj\Debug\AngularIsmaDay1.csprojResolveAssemblyReference.cache
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\obj\Debug\AngularIsmaDay1.dll
+D:\fci\courses\NanoDegree\U.I\AngularIsmaDay1\AngularIsmaDay1\obj\Debug\AngularIsmaDay1.pdb
+D:\fci\courses\NanoDegree\U.I\Routing\AngularIsmaDay1\obj\Debug\AngularIsmaDay1.dll
+D:\fci\courses\NanoDegree\U.I\Routing\AngularIsmaDay1\obj\Debug\AngularIsmaDay1.pdb

@@ -1,0 +1,165 @@
+﻿<div class="sel1">
+    <div class="sel">
+        <div class="thumbnail">
+            <div>
+                <img ng-src="{{mydetails.src}}" class="img-responsive"/>
+            </div>
+    
+            <table class="movieInfo1">
+					        <tr>
+						        <td>NAME:</td>
+						        <td>{{mydetails.Name}}</td>
+					        </tr>
+					        <tr>
+						        <td>DURATION:</td>
+						        <td>{{mydetails.duration}}</td>
+					        </tr>
+					        <tr>
+						        <td>RATE:</td>
+						        <td>{{mydetails.rating}}</td>
+					        </tr>
+					
+                            <tr>
+						        <td>ACTORS:</td>
+						        <td>{{mydetails.actors}}</td>
+					        </tr>
+					        <tr>
+						        <td>DESCRIPTION:</td>
+						        <td>{{mydetails.description}}</td>
+					        </tr>
+					        <!--<tr>
+						        <td>rate:</td>
+						        <td>{{mydetails.rating}}</td>
+					        </tr>-->
+					
+
+				        </table>
+		    </div>
+     </div>
+</div>
+    <div class="but" ng-init="visible=false" >
+            <div  ng-show="visible">
+                <!--in cairo-->
+                <div >
+                    <p><h3>cairo:</h3></p>
+                    <ul>
+                        <!--if there are available places-->
+                        <li ng-if="mydetails.cairo1>0"><a href="#!/booking/{{mydetails.cairo1}}">midnight:</a> (60 $)-number of available seats :{{mydetails.cairo1}}</li>
+                         <!--if there are no available places-->
+                         <li ng-if="mydetails.cairo1==0" style="color:gray">midnight: (60 $)-number of available seats :{{mydetails.cairo1}}</li>
+
+                        <!--if there are available places-->
+                        <li ng-if="mydetails.cairo2>0"><a href="#!/booking/{{mydetails.cairo2}}">06:45 pm:</a> (40 $)-number of available seats :{{mydetails.cairo2}}</li>
+                         <!--if there are no available places-->
+                         <li ng-if="mydetails.cairo2==0" style="color:gray">06:45 pm: (40 $)-number of available seats :{{mydetails.cairo2}}</li>
+
+                        <!--if there are available places-->
+                        <li ng-if="mydetails.cairo3>0"><a href="#!/booking/{{mydetails.cairo3}}">09:45 pm</a> (60 $)-number of available seats :{{mydetails.cairo3}}</li>
+                         <!--if there are no available places-->
+                         <li ng-if="mydetails.cairo3==0" style="color:gray">09:45 pm: (60 $)-number of available seats :{{mydetails.cairo3}}</li>
+                    </ul>
+                </div>
+                <!--in alex-->
+                <div >
+                    <p><h3>Alex:</h3></p>
+                    <ul>
+                        <!--if there are available places-->
+                        <li ng-if="mydetails.alex1>0"><a href="#!/booking/{{mydetails.alex1}}">midnight:</a> (60 $)-number of available seats :{{mydetails.alex1}}</li>
+                         <!--if there are no available places-->
+                         <li ng-if="mydetails.alex1==0" style="color:gray">midnight: (60 $)-number of available seats :{{mydetails.alex1}}</li>
+
+                        <!--if there are available places-->
+                        <li ng-if="mydetails.alex2>0"><a href="#!/booking/{{mydetails.alex2}}">06:45 pm:</a> (40 $)-number of available seats :{{mydetails.alex2}}</li>
+                         <!--if there are no available places-->
+                         <li ng-if="mydetails.alex2==0" style="color:gray">06:45 pm: (40 $)-number of available seats : 0</li>
+
+                        <!--if there are available places-->
+                        <li ng-if="mydetails.alex3>0"><a href="#!/booking/{{mydetails.alex3}}">09:45 pm</a> (60 $)-number of available seats :{{mydetails.alex3}}</li>
+                         <!--if there are no available places-->
+                         <li ng-if="mydetails.alex3==0" style="color:gray">09:45 pm: (60 $)-number of available seats : 0</li>
+                    </ul>
+                </div>
+                <!--in portsaid-->
+                <div >
+                    <p><h3>Portsaid:</h3></p>
+                    <ul>
+                        <!--if there are available places-->
+                        <li ng-if="mydetails.portsaid1>0"><a href="#!/booking/{{mydetails.portsaid1}}">midnight:</a> (60 $)-number of available seats :{{mydetails.portsaid1}}</li>
+                         <!--if there are no available places-->
+                         <li ng-if="mydetails.portsaid1==0" style="color:gray">midnight: (60 $)-number of available seats : 0</li>
+
+                        <!--if there are available places-->
+                        <li ng-if="mydetails.portsaid2>0"><a href="#!/booking/{{mydetails.portsaid2}}">06:45 pm:</a> (40 $)-number of available seats :{{mydetails.portsaid2}}</li>
+                         <!--if there are no available places-->
+                         <li ng-if="mydetails.portsaid2==0" style="color:gray">06:45 pm: (40 $)-number of available seats : 0</li>
+
+                        <!--if there are available places-->
+                        <li ng-if="mydetails.portsaid3>0"><a href="#!/booking/{{mydetails.portsaid3}}">09:45 pm</a> (60 $)-number of available seats :{{mydetails.portsaid3}}</li>
+                         <!--if there are no available places-->
+                         <li ng-if="mydetails.portsaid3==0" style="color:gray">09:45 pm: (60 $)-number of available seats : 0</li>
+                    </ul>
+                </div>
+
+
+
+
+                <!--<div ng-if="mydetails.cairo>0"><a href="#!/booking/{{mydetails.cairo}}">cairo</a> number of seats:{{mydetails.cairo}}</div>
+                <div ng-if="mydetails.cairo==0"><span class="notavilable">cairo</span>  number of seats:{{mydetails.cairo}}</div>
+                <div><a href="#!/booking/{{mydetails.alex}}">alex</a>number of seats:{{mydetails.alex}}</div>
+                <div><a href="#!/booking/{{mydetails.portsaid}}">portsaid</a>number of seats:{{mydetails.portsaid}}</div>-->
+            </div>
+
+
+
+			<input type="button" ng-click="visible=!visible"  ng-show="!visible" value="booking" class="but" id="butbook">
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<div>noooooooooooooody</div>-->
+
+<!--<ul>
+    <li>{{mydetails.actors}}</li>
+    <li> {{mydetails.description}}</li>
+    <li> {{mydetails.places[1]}}</li>
+
+    
+</ul>-->
+<!--<div>{{movies[2].type}}</div>-->
+
+
+
+<!--<h1>orders</h1>
+<h1>Customer id : {{customerid}}</h1>
+<h1>Number of orders :{{myorders.length}}</h1>
+
+<table class="table table-bordered">
+    <tr>
+      
+        <th>Id</th>
+        <th>Product name</th>
+        <th>Qty</th>
+        <th>Price</th>
+
+    </tr>
+    <tr ng-repeat="o in myorders">
+        <td>{{o.id}}</td>
+        <td>{{o.product}}</td>
+        <td>{{o.Qty}}</td>
+        <td>{{o.Unitprice}}</td>
+    </tr>
+</table>-->

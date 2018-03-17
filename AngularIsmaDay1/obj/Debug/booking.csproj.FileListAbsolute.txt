@@ -1,0 +1,2 @@
+D:\fci\courses\NanoDegree\U.I\Routing\AngularIsmaDay1\obj\Debug\AngularIsmaDay1.dll
+D:\fci\courses\NanoDegree\U.I\Routing\AngularIsmaDay1\obj\Debug\AngularIsmaDay1.pdb
